@@ -72,13 +72,12 @@ Thank you for choosing TrendyThreads. Enjoy a seamless shopping experience as yo
 
 ### Promotional Video
 
-![TrendyThreads Video](assets/Previews/TrendyThreads.mp4)
 
-<div align="center">
-  <video width="320" height="240" controls>
-    <source src="assets/Previews/TrendyThreads.mp4" type="video/mp4">
-  </video>
-</div>
+https://github.com/Ayushdash02/TrendyThreads-Website/assets/98728267/65c2861a-1c18-44b0-93e2-a72c11c65421
+
+
+
+
 
 ---
 
