@@ -72,7 +72,7 @@ Thank you for choosing TrendyThreads. Enjoy a seamless shopping experience as yo
 
 ### Promotional Video
 
-<!-- ![TrendyThreads Video](video-thumbnail.jpg) -->
+![TrendyThreads Video](video-thumbnail.jpg)
 
 <video width="320" height="240" controls>
   <source src="assets/Previews/TrendyThreads.mp4" type="TrendyThreads/mp4">
